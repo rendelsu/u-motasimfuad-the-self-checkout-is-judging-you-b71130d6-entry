@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-motasimfuad-the-self-checkout-is-judging-you-b71130d6/rendelsu/u-motasimfuad-the-self-checkout-is-judging-you-b71130d6-entry/rank.svg)](https://make.fun/bounty/u-motasimfuad-the-self-checkout-is-judging-you-b71130d6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-self-checkout-is-judging-you-b71130d6)
 [![reward](https://make.fun/badge/u-motasimfuad-the-self-checkout-is-judging-you-b71130d6/rendelsu/u-motasimfuad-the-self-checkout-is-judging-you-b71130d6-entry/reward.svg)](https://make.fun/bounty/u-motasimfuad-the-self-checkout-is-judging-you-b71130d6?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-self-checkout-is-judging-you-b71130d6)
 
-A one-line self-checkout remark that reads a cucumber, batteries and a sympathy card and keeps the receipts.
+A tiny program that lets a self-checkout machine deliver one smug verdict on your basket.
 
 ## Run it
 
